@@ -1,0 +1,4 @@
+#Branching 
+
+branching is a form of development that allows for changes without altering the master copy until commited 
+
